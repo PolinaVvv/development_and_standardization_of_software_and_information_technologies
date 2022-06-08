@@ -45,6 +45,6 @@ jobs:
         with:
           username: ${{ secrets.REGISTRY_LOGIN }}
           password: ${{ secrets.REGISTRY_TOKEN }}
-          repository: alvassin/backendschool2019
+          repository: PolinaVvv/development_and_standardization_of_software_and_information_technologies
           target: api
           tags: 0.0.1, latest
